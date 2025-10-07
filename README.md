@@ -38,7 +38,7 @@ BookReviewPlatform/
 
 <img src="frontend/src/assets/Screenshot 2025-10-05 194503.png" >
 <img src="frontend/src/assets/Screenshot 2025-10-05 195745.png" >
-<img src="frontend/src/assets/Screenshot 2025-10-05 194104.png" >
+<img src="https://github.com/Ritik-Gswmi/Book-Review-Platform/blob/main/frontend/src/assets/Screenshot%202025-10-07%20202732.png" >
 <img src="frontend/src/assets/Screenshot 2025-10-05 194442.png" >
 
 
